@@ -3,8 +3,11 @@ import './style.css'
 /* import './clean-code/05-dry'; */
 /* import "./clean-code/06-clases-a" */
 /* import "./clean-code/06-clases-b" */
-/* import "./clean-code/06-clases-c" */
-import "./clean-code/07-tarea"
+/* import "./code-smell/01-singleton.js" */
+/* import "./code-smell/02-high-coupling" */
+/* import "./code-smell/02-low-coupling" */
+/* import "./solid/01-srp" */
+import './solid/02-open-close-a';
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
